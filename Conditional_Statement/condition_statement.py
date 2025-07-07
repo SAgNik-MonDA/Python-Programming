@@ -1,3 +1,4 @@
+# loop
 light=input("Enter your colour : ")
 if(light == "red"):
     print("stop")

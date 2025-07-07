@@ -55,6 +55,7 @@
 # converter(2)
 
 
+# Odd & Even
 def odd_even():
     num=int(input("enter a number : "))
     if(num%2==0):

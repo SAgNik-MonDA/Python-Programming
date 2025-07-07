@@ -8,6 +8,7 @@
 # print(num)
 
 
+# Average
 # def avg(a,b,c):
 #     num=int((a+b+c)/3)
 #     return num

@@ -1,3 +1,4 @@
+# FUNCTION
 str="i am studying python"
 print(str.endswith("jon"))
 str=str.capitalize()
